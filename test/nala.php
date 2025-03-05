@@ -1,3 +1,3 @@
 <?php
-echo "Hello, NALA!";
+echo "Hello, php!";
 ?>
